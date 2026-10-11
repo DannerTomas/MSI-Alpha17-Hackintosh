@@ -1,0 +1,18 @@
+{
+  "time": "2026-10-10T21:28:51.750860+08:00",
+  "cpu": "AMD Ryzen 9 7945HX with Radeon Graphics",
+  "pci_id": "0x14d81022",
+  "operation": "query",
+  "opcode": "0x6e",
+  "argument": 0,
+  "response": "0x1",
+  "success": true,
+  "outputs": [
+    5450,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}
